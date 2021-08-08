@@ -1,0 +1,4 @@
+const intialState = {
+  availableProducts: [],
+  userProducts: [],
+};
